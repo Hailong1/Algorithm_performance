@@ -1,4 +1,4 @@
-database: test
-username: long
-password: mn890507
+database: 
+username: 
+password: 
 note: enter corresponding information above to connect the mysql. 
