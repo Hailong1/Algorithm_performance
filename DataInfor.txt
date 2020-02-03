@@ -1,0 +1,4 @@
+database: test
+username: long
+password: mn890507
+note: enter corresponding information above to connect the mysql. 
